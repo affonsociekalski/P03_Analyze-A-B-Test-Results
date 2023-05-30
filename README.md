@@ -8,9 +8,8 @@ number of users who end up paying for their product. My goal was to offer insigh
 to the company so they could determine if they would implement the new webpage, 
 keep the old one, or run the experiment for a longer time.
 
-## Authors:
+## Author:
 * Affonso Ciekalski Soares Campos
-* Udacity
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
