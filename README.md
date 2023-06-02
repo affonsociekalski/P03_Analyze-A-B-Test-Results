@@ -2,11 +2,18 @@
 This is the project for the third module from the Data Analyst Nanodegree at Udacity.
 
 ## Project Overview
-This project analyzes the results of an A/B Test run by an e-commerce website. 
-In this scenario, the company created a new webpage trying to increase the 
-number of users who end up paying for their product. My goal was to offer insights 
-to the company so they could determine if they would implement the new webpage, 
-keep the old one, or run the experiment for a longer time.
+This [project](Analyze_ab_test_results_notebook.ipynb) analyzes the results 
+of an A/B Test run by an e-commerce website. In this scenario, the company 
+created a new webpage trying to increase the number of users who end up paying 
+for their product. My goal was to offer insights to the company so they could 
+determine if they would implement the new webpage, keep the old one, or run 
+the experiment for a longer time.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 
 ## Author:
 * Affonso Ciekalski Soares Campos
